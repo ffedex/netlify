@@ -1,9 +1,8 @@
 {
-  "fonts": [
-    {
-      "name": "Elegant Typewriter",
-      "type": "remote",
-      "url": "https://github.com/ffedex/netlify/raw/refs/heads/main/ELEGANT%20TYPEWRITER%20Light.ttf"
-    }
-  ]
+  "type": "font",
+  "name": "Elegant Typewriter",
+  "font": {
+    "type": "remote",
+    "url": "https://github.com/ffedex/netlify/raw/refs/heads/main/ELEGANT%20TYPEWRITER%20Light.ttf"
+  }
 }
